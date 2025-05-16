@@ -18,7 +18,7 @@ For the most part, you will be reading. However, there is a search bar, for peop
 
 ## How it looks like
 ![Website Image](/Website.png)
-Format:![A picture of how the website search and comment section looks like](file:///Users/fufu/Documents/HyperionDev/Submissions/Woah/Task%205/index.html)
+Format:![A picture of how the website search and comment section looks like](website.png)
 
 ## Credits
 Createc by S'fundo Matu.
